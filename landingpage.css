@@ -1,0 +1,106 @@
+.landing-page-container{
+    background-color: black;
+    height:450vh;
+}
+.top-section{
+    background-color: rgb(53, 35, 27);
+    padding:10px;
+}
+.top-section-heading{
+    color:rgb(185, 79, 9);
+    font-family:caveat;
+}
+.icon{
+    color:rgb(185, 79, 9);
+}
+.icons-conatiner{
+    text-align: right;
+}
+.bottom-section{
+    background-image: url("https://png.pngtree.com/background/20230528/original/pngtree-hand-making-coffee-with-flowers-topped-with-plants-picture-image_2778722.jpg");
+    background-size:cover;
+    height:70vh;
+    text-align:center;
+}
+.main-heading{
+    color:#ffffff;
+    font-family:caveat;
+    font-weight:bold;
+}
+.input-container{
+    background-color: rgb(31, 27, 27);
+    border-radius: 10px;
+    padding:10px;
+}
+.input{
+    margin-right:50px;
+    height:50px;
+    border-radius:6px;
+}
+.about-section{
+    background-image:url("https://images.ctfassets.net/txhaodyqr481/5zTTY7J76zFaSy4j4qeNZE/119faebafbee0421e4ff5253b9dd9b9b/pexels-afta-putta-gunawan-683039.jpg?fm=jpg&q=85&fl=progressive");
+    height:80vh;
+    width:85vw;
+    margin-left:100px;
+    margin-right:100px;
+    background-size:cover;
+    padding-top:150px;
+    padding-left:200px;
+    
+}
+.about-card-container {
+    background-color:black;
+    border-radius: 8px;
+    padding: 16px;
+    width:50%;
+  }
+.description{
+    color:#ffffff;
+    font-family:caveat;
+}
+.club-image{
+    width:75%;
+}
+.service-card{
+    border-color:#ffffff;
+    padding:16px;
+    border-style:solid;
+    border-width:1px;
+}
+.service-image{
+    height:200px;
+    border-radius:100px;
+}
+.details{
+    color:rgb(239, 76, 17);
+    font-family:caveat;
+    font-weight:bold;
+}
+.contact-inputs{
+    border-color:blue;
+    padding:16px;
+    border-style:solid;
+    border-width:1px;
+}
+.contact-inputbox{
+    height:40px;
+    border-radius:6px;
+}
+.box1{
+    width:200px;
+}
+.box2{
+    width:430px;
+}
+.box3{
+    width:430px;
+    height:140px;
+}
+.contact-button{
+    background-color: blanchedalmond;
+    width:430px;
+    color:black;
+    text-align:center;
+    padding:10px;
+    border-radius:8px;
+}
